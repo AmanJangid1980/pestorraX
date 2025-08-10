@@ -54,7 +54,7 @@ const WhyChooseUs = () => {
       name: 'Rajesh Kumar',
       role: 'Restaurant Owner',
       rating: 5,
-      text: 'PestGuard Pro has been managing our restaurant\'s pest control for 3 years. Reliable, professional, and effective.',
+              text: 'PestorraX has been managing our restaurant\'s pest control for 3 years. Reliable, professional, and effective.',
       avatar: 'RK'
     },
     {
@@ -87,7 +87,7 @@ const WhyChooseUs = () => {
             <span>Why Choose Us</span>
           </div>
           <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-            The PestGuard Pro Advantage
+            The PestorraX Advantage
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We don't just eliminate pests - we provide comprehensive solutions that protect your property 

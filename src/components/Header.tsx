@@ -51,11 +51,11 @@ const Header = () => {
                 <Shield className="w-5 h-5 lg:w-6 lg:h-6 text-white" />
               </div>
               <div className="hidden sm:block">
-                <h1 className="text-lg lg:text-xl font-bold text-gray-900">PestGuard Pro</h1>
+                <h1 className="text-lg lg:text-xl font-bold text-gray-900">PestorraX</h1>
                 <p className="text-xs text-green-600 font-medium">Professional Pest Control Services</p>
               </div>
               <div className="sm:hidden">
-                <h1 className="text-lg font-bold text-gray-900">PestGuard Pro</h1>
+                <h1 className="text-lg font-bold text-gray-900">PestorraX</h1>
               </div>
             </Link>
           </div>

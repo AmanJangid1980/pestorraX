@@ -1,10 +1,10 @@
-# Pestologist Pest Control Expert LLP - Website
+# PestorraX - Website
 
 A professional, modern pest control website built with Next.js, TypeScript, and Tailwind CSS.
 
 ## 🏠 Project Overview
 
-**Website Name:** Pestologist Pest Control Expert LLP  
+**Website Name:** PestorraX  
 **Tagline:** Your Shield Against Unwanted Pests  
 **Project:** pestorraX
 
@@ -171,15 +171,15 @@ The project can be deployed to any platform that supports Next.js.
 
 ## 📞 Contact Information
 
-**Pestologist Pest Control Expert LLP**
+**PestorraX**
 - **Phone:** +91 98765 43210
-- **Email:** info@pestologist.com
+- **Email:** info@pestorraX.com
 - **Address:** Mumbai, Maharashtra
 - **Emergency:** 24/7 Available
 
 ## 📄 License
 
-This project is created for Pestologist Pest Control Expert LLP. All rights reserved.
+This project is created for PestorraX. All rights reserved.
 
 ## 🤝 Contributing
 
@@ -187,4 +187,4 @@ This is a client project. For any modifications or updates, please contact the d
 
 ---
 
-**Built with ❤️ for Pestologist Pest Control Expert LLP**
+**Built with ❤️ for PestorraX**

@@ -301,7 +301,7 @@ const Hero = () => {
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-16 items-center">
             <div>
               <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-4 lg:mb-6">
-                Why Choose PestGuard Pro?
+                Why Choose PestorraX?
               </h2>
               <p className="text-lg lg:text-xl text-gray-600 mb-6 lg:mb-8">
                 We combine cutting-edge technology with eco-friendly solutions to deliver 
@@ -434,7 +434,7 @@ const Hero = () => {
                 </div>
               </div>
               <p className="text-sm lg:text-base text-gray-600 mb-4 lg:mb-6">
-                "PestGuard Pro completely eliminated our termite problem. The team was professional, 
+                "PestorraX completely eliminated our termite problem. The team was professional, 
                 thorough, and used eco-friendly solutions. Highly recommended!"
               </p>
               <div className="flex items-center">

@@ -59,7 +59,7 @@ const Footer = () => {
                 <Shield className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="text-xl font-bold">PestGuard Pro</h3>
+                <h3 className="text-xl font-bold">PestorraX</h3>
                 <p className="text-sm text-gray-400">Professional Pest Control</p>
               </div>
             </div>
@@ -77,7 +77,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Mail className="w-4 h-4 text-green-400" />
-                <span>info@pestguardpro.com</span>
+                <span>info@pestorraX.com</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <MapPin className="w-4 h-4 text-green-400" />
@@ -183,7 +183,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             {/* Copyright */}
             <div className="text-gray-400 text-sm">
-              © {currentYear} PestGuard Pro. All rights reserved. | Licensed & Insured
+              © {currentYear} PestorraX. All rights reserved. | Licensed & Insured
             </div>
 
             {/* Social Links */}

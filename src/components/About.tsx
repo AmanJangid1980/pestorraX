@@ -28,7 +28,7 @@ const About = () => {
             <div className="space-y-6">
               <div className="inline-flex items-center space-x-2 bg-green-100 text-green-700 px-4 py-2 rounded-full text-sm font-medium">
                 <Shield className="w-4 h-4" />
-                <span>About PestGuard Pro</span>
+                <span>About PestorraX</span>
               </div>
               
               <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 leading-tight">
@@ -36,7 +36,7 @@ const About = () => {
                 <span className="text-green-600">Pest Control</span>
               </h2>
               <p className="text-xl text-gray-600 leading-relaxed">
-                With over 8 years of experience, PestGuard Pro has been protecting homes and businesses 
+                With over 8 years of experience, PestorraX has been protecting homes and businesses 
                 across the region with professional, eco-friendly pest control solutions. Our certified 
                 technicians use advanced techniques and safe products to ensure your property remains 
                 pest-free while protecting your family and the environment.

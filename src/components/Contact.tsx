@@ -14,9 +14,9 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: 'Email Us',
-      details: ['info@pestguardpro.com', 'support@pestguardpro.com'],
+              details: ['info@pestorraX.com', 'support@pestorraX.com'],
       action: 'Send Email',
-      href: 'mailto:info@pestguardpro.com'
+              href: 'mailto:info@pestorraX.com'
     },
     {
       icon: <MapPin className="w-6 h-6" />,

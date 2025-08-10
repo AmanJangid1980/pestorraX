@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Pestologist Pest Control Expert LLP - Your Shield Against Unwanted Pests",
+  title: "PestorraX - Your Shield Against Unwanted Pests",
   description: "Professional pest control services including termite control, rodent control, cockroach control, mosquito control, and bedbug treatment. Eco-friendly solutions for your home and business.",
   keywords: "pest control, termite control, rodent control, cockroach control, mosquito control, bedbug treatment, eco-friendly pest control",
 };
