@@ -1,0 +1,41 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F0FDF4"/>
+  <circle cx="200" cy="150" r="80" fill="#DCFCE7" stroke="#16A34A" stroke-width="3"/>
+  
+  <!-- Spider icon -->
+  <g transform="translate(160, 110)">
+    <!-- Body -->
+    <circle cx="40" cy="40" r="12" fill="#8B4513"/>
+    <!-- Head -->
+    <circle cx="40" cy="28" r="8" fill="#654321"/>
+    <!-- Legs -->
+    <line x1="40" y1="40" x2="30" y2="50" stroke="#8B4513" stroke-width="2"/>
+    <line x1="40" y1="40" x2="50" y2="50" stroke="#8B4513" stroke-width="2"/>
+    <line x1="40" y1="45" x2="25" y2="55" stroke="#8B4513" stroke-width="2"/>
+    <line x1="40" y1="45" x2="55" y2="55" stroke="#8B4513" stroke-width="2"/>
+    <line x1="40" y1="50" x2="20" y2="60" stroke="#8B4513" stroke-width="2"/>
+    <line x1="40" y1="50" x2="60" y2="60" stroke="#8B4513" stroke-width="2"/>
+    <line x1="40" y1="55" x2="15" y2="65" stroke="#8B4513" stroke-width="2"/>
+    <line x1="40" y1="55" x2="65" y2="65" stroke="#8B4513" stroke-width="2"/>
+  </g>
+  
+  <!-- Various pest icons -->
+  <g transform="translate(280, 180)">
+    <!-- Ant -->
+    <g transform="translate(0, 0)">
+      <ellipse cx="8" cy="8" rx="6" ry="3" fill="#8B4513"/>
+      <circle cx="4" cy="8" r="3" fill="#654321"/>
+      <line x1="4" y1="5" x2="4" y2="2" stroke="#654321" stroke-width="1"/>
+      <line x1="4" y1="5" x2="6" y2="2" stroke="#654321" stroke-width="1"/>
+    </g>
+    
+    <!-- Fly -->
+    <g transform="translate(20, 0)">
+      <circle cx="8" cy="8" r="4" fill="#374151"/>
+      <path d="M 8 4 Q 12 2 16 4" stroke="#64748B" stroke-width="1" fill="none"/>
+      <path d="M 8 4 Q 4 2 0 4" stroke="#64748B" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  
+  <text x="200" y="280" text-anchor="middle" fill="#16A34A" font-family="Arial" font-size="18" font-weight="bold">General Pest Control</text>
+</svg>

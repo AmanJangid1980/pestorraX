@@ -1,0 +1,33 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FDF2F8"/>
+  <circle cx="200" cy="150" r="80" fill="#FCE7F3" stroke="#EC4899" stroke-width="3"/>
+  
+  <!-- Bed icon -->
+  <g transform="translate(140, 120)">
+    <!-- Bed frame -->
+    <rect x="0" y="0" width="80" height="60" fill="#8B5CF6" rx="5"/>
+    <!-- Mattress -->
+    <rect x="5" y="5" width="70" height="50" fill="#F3E8FF" rx="3"/>
+    <!-- Pillow -->
+    <rect x="10" y="10" width="25" height="15" fill="#E9D5FF" rx="3"/>
+    <!-- Bedbug -->
+    <g transform="translate(50, 25)">
+      <ellipse cx="8" cy="8" rx="6" ry="4" fill="#8B4513"/>
+      <circle cx="6" cy="6" r="2" fill="#654321"/>
+      <circle cx="10" cy="6" r="2" fill="#654321"/>
+      <line x1="8" y1="10" x2="8" y2="12" stroke="#8B4513" stroke-width="1"/>
+      <line x1="6" y1="11" x2="6" y2="13" stroke="#8B4513" stroke-width="1"/>
+      <line x1="10" y1="11" x2="10" y2="13" stroke="#8B4513" stroke-width="1"/>
+    </g>
+  </g>
+  
+  <!-- Treatment spray icon -->
+  <g transform="translate(280, 180)">
+    <rect x="0" y="10" width="8" height="20" fill="#6B7280" rx="2"/>
+    <circle cx="4" cy="8" r="6" fill="#EC4899"/>
+    <path d="M 4 2 Q 4 0 6 0 Q 8 0 8 2" stroke="#EC4899" stroke-width="2" fill="none"/>
+    <path d="M 4 2 Q 4 0 2 0 Q 0 0 0 2" stroke="#EC4899" stroke-width="2" fill="none"/>
+  </g>
+  
+  <text x="200" y="280" text-anchor="middle" fill="#EC4899" font-family="Arial" font-size="18" font-weight="bold">Bedbug Treatment</text>
+</svg>
