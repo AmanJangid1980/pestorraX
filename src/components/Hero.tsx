@@ -335,7 +335,7 @@ const Hero = () => {
                   </div>
                   <div>
                     <h3 className="text-base lg:text-lg font-semibold text-gray-900 mb-1 lg:mb-2">24/7 Emergency Service</h3>
-                    <p className="text-sm lg:text-base text-gray-600">Pest emergencies don't wait for business hours. We're available round the clock for urgent situations.</p>
+                    <p className="text-sm lg:text-base text-gray-600">Pest emergencies don&apos;t wait for business hours. We&apos;re available round the clock for urgent situations.</p>
                   </div>
                 </div>
               </div>
@@ -418,7 +418,7 @@ const Hero = () => {
               What Our Customers Say
             </h2>
             <p className="text-lg lg:text-xl text-gray-600 max-w-3xl mx-auto px-4">
-              Don't just take our word for it. Here's what our satisfied customers have to say about our services.
+              Don&apos;t just take our word for it. Here&apos;s what our satisfied customers have to say about our services.
             </p>
           </div>
           
@@ -434,8 +434,8 @@ const Hero = () => {
                 </div>
               </div>
               <p className="text-sm lg:text-base text-gray-600 mb-4 lg:mb-6">
-                "PestorraX completely eliminated our termite problem. The team was professional, 
-                thorough, and used eco-friendly solutions. Highly recommended!"
+                &ldquo;PestorraX completely eliminated our termite problem. The team was professional, 
+                thorough, and used eco-friendly solutions. Highly recommended!&rdquo;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 lg:w-12 lg:h-12 bg-green-100 rounded-full flex items-center justify-center mr-3 lg:mr-4">
@@ -459,8 +459,8 @@ const Hero = () => {
                 </div>
               </div>
               <p className="text-sm lg:text-base text-gray-600 mb-4 lg:mb-6">
-                "Excellent service for our restaurant. They handle all our pest control needs 
-                professionally and ensure we maintain health standards. Great team!"
+                &ldquo;Excellent service for our restaurant. They handle all our pest control needs 
+                professionally and ensure we maintain health standards. Great team!&rdquo;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 lg:w-12 lg:h-12 bg-green-100 rounded-full flex items-center justify-center mr-3 lg:mr-4">
@@ -484,8 +484,8 @@ const Hero = () => {
                 </div>
               </div>
               <p className="text-sm lg:text-base text-gray-600 mb-4 lg:mb-6">
-                "Fast response time and effective treatment. They solved our bedbug issue 
-                completely. The staff is knowledgeable and courteous."
+                &ldquo;Fast response time and effective treatment. They solved our bedbug issue 
+                completely. The staff is knowledgeable and courteous.&rdquo;
               </p>
               <div className="flex items-center">
                 <div className="w-10 h-10 lg:w-12 lg:h-12 bg-green-100 rounded-full flex items-center justify-center mr-3 lg:mr-4">
@@ -508,7 +508,7 @@ const Hero = () => {
             Ready to Get Rid of Pests?
           </h2>
           <p className="text-lg lg:text-xl text-green-100 mb-6 lg:mb-8 max-w-2xl mx-auto">
-            Don't let pests take over your home or business. Contact us today for a free inspection 
+            Don&apos;t let pests take over your home or business. Contact us today for a free inspection 
             and professional pest control solutions.
           </p>
           

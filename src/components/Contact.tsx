@@ -203,7 +203,7 @@ const Contact = () => {
               </div>
               <h3 className="text-2xl font-bold mb-4">Emergency Pest Control?</h3>
               <p className="text-green-100 mb-6">
-                Don't wait! Call us immediately for urgent pest control services.
+                Don&apos;t wait! Call us immediately for urgent pest control services.
               </p>
               <a
                 href="tel:+919876543210"
@@ -221,7 +221,7 @@ const Contact = () => {
               </div>
               <h4 className="font-bold text-gray-900 mb-2">100% Satisfaction Guarantee</h4>
               <p className="text-sm text-gray-600">
-                We stand behind our work. If you're not completely satisfied, we'll make it right.
+                We stand behind our work. If you&apos;re not completely satisfied, we&apos;ll make it right.
               </p>
             </div>
           </div>

@@ -90,8 +90,8 @@ const WhyChooseUs = () => {
             The PestorraX Advantage
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We don't just eliminate pests - we provide comprehensive solutions that protect your property 
-            and give you peace of mind. Here's what sets us apart from the competition.
+            We don&apos;t just eliminate pests - we provide comprehensive solutions that protect your property 
+            and give you peace of mind. Here&apos;s what sets us apart from the competition.
           </p>
         </div>
 
@@ -126,7 +126,7 @@ const WhyChooseUs = () => {
                   
                   {/* Quote */}
                   <p className="text-gray-600 italic mb-6 leading-relaxed">
-                    "{testimonial.text}"
+                    &ldquo;{testimonial.text}&rdquo;
                   </p>
                   
                   {/* Author */}

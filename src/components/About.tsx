@@ -1,6 +1,6 @@
 'use client';
 
-import { Shield, Award, Users, Clock, CheckCircle, Star } from 'lucide-react';
+import { Shield, Award, Users, CheckCircle, Star } from 'lucide-react';
 
 const About = () => {
   const stats = [

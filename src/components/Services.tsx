@@ -1,6 +1,6 @@
 'use client';
 
-import { Shield, Bug, Rat, Zap, Droplets, Building, Home, CheckCircle } from 'lucide-react';
+import { Shield, Bug, Rat, Zap, Droplets, Home, CheckCircle } from 'lucide-react';
 
 const Services = () => {
   const services = [
@@ -96,7 +96,7 @@ const Services = () => {
               {/* Service Features */}
               <div className="p-6">
                 <div className="flex items-center justify-between mb-4">
-                  <h4 className="font-semibold text-gray-900">What's Included:</h4>
+                  <h4 className="font-semibold text-gray-900">What&apos;s Included:</h4>
                   <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
                     {service.duration}
                   </span>
